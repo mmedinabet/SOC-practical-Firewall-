@@ -1,4 +1,4 @@
-<h1> Security Operations Center Practical #1: Firewall configuration</h1>
+<h1> Security Operations Center Practical #1: Firewall Configuration</h1>
 
 The website at 203.0.110.1 is under attack! Quickly add some firewall rules to stop the server from crashing!
 The packets in red are from the attacker's machine!
